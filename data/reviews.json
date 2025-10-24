@@ -1,0 +1,46 @@
+{
+  "cafe_name": "Bergmann Coffee Roastery (Roasters)",
+  "location": "Hermannstraße 176, 12051 Berlin",
+  "google_rating": "4.6/5",
+  "total_reviews": "2740+",
+  "reviews": [
+    {
+      "author": "Coffee Enthusiast",
+      "rating": 5,
+      "text": "Some of the best coffee in Berlin and at an astounding price!",
+      "date": "2024",
+      "source": "Yelp"
+    },
+    {
+      "author": "Local Customer",
+      "rating": 5,
+      "text": "Very high quality coffee. Perfect flat white. Rich, smooth coffees made with high quality beans and silky milk foam.",
+      "date": "2024",
+      "source": "Google"
+    },
+    {
+      "author": "Regular Visitor",
+      "rating": 5,
+      "text": "Great place to take your laptop and work. Relaxing atmosphere and good music. The coffee is outstanding and the staff is always very friendly.",
+      "date": "2024",
+      "source": "Google"
+    },
+    {
+      "author": "Berlin Resident",
+      "rating": 5,
+      "text": "Cozy ambience with board games available. In-house coffee roasting machine. Great WiFi and quaint outdoor seating near Tempelhof feld.",
+      "date": "2024",
+      "source": "TripAdvisor"
+    }
+  ],
+  "highlights": [
+    "In-house coffee roasting",
+    "Best coffee at astounding prices",
+    "Cozy atmosphere with board games",
+    "Great WiFi",
+    "Outdoor seating",
+    "Near Tempelhof feld",
+    "Laptop-friendly (weekdays only)",
+    "Coffee to take away"
+  ]
+}

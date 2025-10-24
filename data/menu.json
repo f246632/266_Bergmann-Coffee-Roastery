@@ -1,0 +1,91 @@
+{
+  "cafe_name": "Bergmann Coffee Roastery",
+  "menu_sections": {
+    "coffee": {
+      "title": "Specialty Coffee",
+      "description": "Roasted on-site with our in-house roasting machine",
+      "items": [
+        {
+          "name": "Espresso",
+          "origins": ["Colombia", "Honduras"],
+          "description": "Rich and bold, roasted fresh daily"
+        },
+        {
+          "name": "Filter Coffee",
+          "origins": ["Guatemala"],
+          "description": "Smooth and aromatic"
+        },
+        {
+          "name": "Flat White",
+          "description": "Perfectly crafted with silky milk foam",
+          "popular": true
+        },
+        {
+          "name": "Fusion Blend",
+          "description": "Our signature house blend"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Classic Italian-style with velvety foam"
+        },
+        {
+          "name": "Latte",
+          "description": "Smooth espresso with steamed milk"
+        }
+      ]
+    },
+    "food": {
+      "title": "Fresh Food",
+      "description": "Locally sourced ingredients, freshly prepared",
+      "items": [
+        {
+          "name": "Fresh Croissants",
+          "description": "Buttery and flaky, baked daily"
+        },
+        {
+          "name": "Homemade Cakes",
+          "description": "Rotating selection of sweet treats",
+          "availability": "Occasionally"
+        },
+        {
+          "name": "Sandwiches",
+          "description": "Fresh made-to-order sandwiches",
+          "availability": "Occasionally"
+        }
+      ]
+    },
+    "beans": {
+      "title": "Coffee Beans to Take Home",
+      "description": "Freshly roasted, available in various sizes",
+      "items": [
+        {
+          "name": "Colombia Espresso",
+          "sizes": ["250g", "500g", "1kg"],
+          "price_from": "€9.90"
+        },
+        {
+          "name": "Honduras Espresso",
+          "sizes": ["250g", "500g", "1kg"],
+          "price_from": "€9.90"
+        },
+        {
+          "name": "Guatemala Filter Coffee",
+          "sizes": ["250g", "500g", "1kg"],
+          "price_from": "€9.90"
+        },
+        {
+          "name": "Fusion Blend",
+          "sizes": ["250g", "500g", "1kg"],
+          "price_from": "€9.90"
+        }
+      ]
+    }
+  },
+  "special_features": [
+    "100% Arabica coffee",
+    "Self-roasted on-site",
+    "Coffee to take away",
+    "Board games available",
+    "No computers on weekends"
+  ]
+}
